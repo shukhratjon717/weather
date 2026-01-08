@@ -22,6 +22,9 @@ Start the development server:
 
 npm run dev
 
+
+==============
+
 Features Implemented
 
 Display current weather, minimum & maximum temperatures, and hourly forecast
